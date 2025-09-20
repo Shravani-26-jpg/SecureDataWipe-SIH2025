@@ -1,7 +1,7 @@
 # 🔐 Secure Data Wiping for Trustworthy IT Asset Recycling  
 **SIH 2025 Project – Team CyberSanctrix** 
 
-## 🚩 Problem Statement  
+## # Problem Statement  
 India generates **1.75M tonnes of e-waste annually**, but much of it is not recycled due to **fear of data breaches**.  
 People and enterprises hoard devices worth **₹50,000+ crore** because current wiping tools are:  
 - ❌ Too complex or expensive  
